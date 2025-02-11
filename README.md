@@ -50,7 +50,7 @@ json-server --watch api-artists/artists.json --port 3000
 
 ## 💻 Link do Projeto
 
-Segue o link do Site Sorteador: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/spotify-imersao/)
+Segue o link do projeto: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Spotify/)
 ```
 
 ## 📜 Licença
