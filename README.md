@@ -47,11 +47,11 @@ A estilização do site foi feita utilizando arquivos CSS modulares:
 Este projeto utiliza um servidor fake para buscar artistas:
 ```sh
 json-server --watch api-artists/artists.json --port 3000
-
+```
 ## 💻 Link do Projeto
 
 Segue o link do projeto: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Spotify/)
-```
+
 
 ## 📜 Licença
 Este projeto é de uso livre. Fique à vontade para contribuir! 🤝
